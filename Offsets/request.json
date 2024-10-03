@@ -24,7 +24,7 @@
         "Accept-Language": "en-US"
     },
     "url_buy_products": {
-        "url": "https://nebula.starbreeze.com/platform/public/namespaces/pd3/users//orders"
+        "url": "https://nebula.starbreeze.com/platform/public/namespaces/pd3/users/{user_id}/orders"
     },
     "headers": {
         "Accept-Encoding": "deflate, gzip",
