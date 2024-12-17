@@ -36,5 +36,28 @@
         "AccelByte-SDK-Version": "21.0.3",
         "AccelByte-OSS-Version": "0.8.11",
         "User-Agent": "PAYDAY3/++UE4+Release-4.27-CL-0 Windows/10.0.19045.1.256.64bit"
+        },
+    "url_buy": {
+        "url_money": "https://szel3hys1l.execute-api.us-east-1.amazonaws.com/platform/admin/wallets/CASH/credit",
+        "url_cstacks": "https://szel3hys1l.execute-api.us-east-1.amazonaws.com/platform/admin/wallets/GOLD/credit",
+        "url_cred": "https://szel3hys1l.execute-api.us-east-1.amazonaws.com/platform/admin/wallets/CRED/credit"
+    },
+    "payload_money": {
+        "amount": 2500000,
+        "source": "ACHIEVEMENT",
+        "reason": "Mission Reward",
+        "origin": "System"
+    },
+    "payload_cstacks": {
+        "amount": 7000,
+        "source": "ACHIEVEMENT",
+        "reason": "Mission Reward",
+        "origin": "System"
+    },
+    "payload_cred": {
+        "amount": 8000,
+        "source": "ACHIEVEMENT",
+        "reason": "Mission Reward",
+        "origin": "System"
     }
 }
