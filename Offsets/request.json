@@ -41,7 +41,7 @@
     "url_buy": {
         "url_money": "https://szel3hys1l.execute-api.us-east-1.amazonaws.com/platform/admin/wallets/CASH/credit",
         "url_cstacks": "https://szel3hys1l.execute-api.us-east-1.amazonaws.com/platform/admin/wallets/GOLD/credit",
-        "url_cred": "https://szel3hys1l.execute-api.us-east-1.amazonaws.com/platform/admin/wallets/CRED/credit"
+        "url_usd": "https://szel3hys1l.execute-api.us-east-1.amazonaws.com/platform/admin/wallets/USD/credit"
     },
     "payload_money": {
         "amount": 2500000,
